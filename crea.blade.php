@@ -36,7 +36,10 @@
         </div>
         <div class="form-group">           
             <label for="sexe">Sexe</label>
-            <input type="text" class="form-control" name="sexe"/>
+            <select name="sexe">
+			    <option value="D">Dona</option>
+			    <option value="H">Home</option>			    
+			</select>
         </div>
         <div class="form-group">           
             <label for="adressa">Adreça</label>
