@@ -62,7 +62,7 @@
             <input type="image" class="form-control" name="fotografia"/>
         </div>
         <div class="form-check">           
-            <input type="checkbox" class="form-check-input" name="treball_distancia" value="true"/>
+            <input type="checkbox" class="form-check-input" name="treball_distancia" value="1"/>
             <label class="form-check-label" for="treball_distancia">Treball a distància</label>
         </div>
         <div class="form-group">           
