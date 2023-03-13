@@ -25,7 +25,7 @@
         </tr>
     </thead>
     <tbody>
-        @foreach($treballador as $treb)
+        @foreach($dades_treballadors as $treb)
         <tr>
             <td>{{$treb->tid}}</td>
             <td>{{$treb->nom}}</td>
