@@ -59,7 +59,7 @@
         </div>
         <div class="form-group">           
             <label for="fotografia">Fotografia</label>
-            <input type="image" class="form-control" name="fotografia"/>
+            <input type="file" class="form-control" name="fotografia"/>
         </div>
         <div class="form-group">           
             <label for="treball_distancia">Treball a distància</label>
