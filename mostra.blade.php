@@ -56,7 +56,7 @@
 		</tr>
 		<tr>
 			<td>Treball a distància</td>
-			<td>{{$dades_treballador->dades_treballadorall_distancia == "1" ? 'Sí':'No'}}</td>
+			<td>{{$dades_treballador->treball_distancia == "1" ? 'Sí':'No'}}</td>
 		</tr>
 		<tr>
 			<td>Tipus de contracte</td>
