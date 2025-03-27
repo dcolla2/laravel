@@ -58,7 +58,7 @@
 			</div>
 			<div class="form-group">           
 				<label for="fotografia">Fotografia</label>
-				<input type="image" class="form-control" name="fotografia" value="{{ $dades_treballador->fotografia }}"/>
+				<input type="file" class="form-control" name="fotografia" value="{{ $dades_treballador->fotografia }}"/>
 			</div>
 			<div class="form-group">           
 				<label for="treball_distancia">Treball a distància</label>
